@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+    margin: 0;
+}
+header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#1DACD7;
+    color:white;
+    text-align: center;
+    padding: 1px;
+}
+main{
+    margin: 25px;
+    padding: 20px;
+}
+li{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.accueil{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accueil > div{
+    text-align: center;
+}
+.accueil > div p{
+    font-size: 20px;
+    padding: 25px;
+}
+.milieu{
+    text-align: center;
+}
+.table_matiere{
+    margin: 30px;
+}
+.table_matiere section{
+    padding-bottom: 45px;
+}
+.texte_table_matiere{
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    padding: 15px;
+}
+.competences{
+    margin: 20px;
+}
