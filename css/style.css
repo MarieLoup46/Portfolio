@@ -34,15 +34,21 @@ li{
 .table_matiere{
     margin: 30px;
 }
+.table_matiere a{
+    text-decoration: none;
+}
 .table_matiere section{
+    margin: 25px;
     padding-bottom: 45px;
 }
 .texte_table_matiere{
     font-size: 25px;
-    color: blue;
     font-weight: bold;
     padding: 15px;
 }
 .competences{
+    margin: 20px;
+}
+.realisations{
     margin: 20px;
 }
